@@ -1,0 +1,13 @@
+export const SET_ACTIVE_LANGUAGE = "languages/SET_ACTIVE_LANGUAGE";
+export const SET_SOURCE_LANGUAGE = "languages/SET_SOURCE_LANGUAGE";
+export const SET_TRANSLATED_LANGUAGE = "languages/SET_TRANSLATED_LANGUAGE";
+export const GET_POPULAR_LANGUAGES = "languages/GET_POPULAR_LANGUAGES";
+export const SET_SEARCH_QUERY = "languages/SET_SEARCH_QUERY";
+
+export const SET_SOURCE_TEXT = "text/SET_ORIGINAL_TEXT";
+export const SET_TRANSLATED_TEXT = "text/SET_TRANSLATED_TEXT";
+export const CREATE_DATA_FIELD = "text/CREATE_DATA_FIELD";
+export const SAVE_DATA_FIELD = "text/SAVE_DATA_FIELD";
+export const DELETE_DATA_FIELD = "text/DELETE_DATA_FIELD";
+
+
